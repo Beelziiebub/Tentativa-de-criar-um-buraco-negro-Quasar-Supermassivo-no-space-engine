@@ -1,4 +1,4 @@
-Star "Thais C the forbidden one"
+Star "Thais C the Forbidden One"
 {
     // Classificação de Quasar
     Class "QSO"                 // Classe Quasar
